@@ -2,7 +2,9 @@
 
 Agile CRM Mock Rest API Server has been developed by [Pedro Maia Costa](https://github.com/pnmcosta) to test custom integrations of the [Agile CRM REST API](https://github.com/agilecrm/rest-api). 
 
-A [Postman](https://www.getpostman.com/) collection is also available [here](https://www.getpostman.com/collections/a08ca24bd01f221d6601) to download and test agains the Mock server or the production API.
+You can also use a [Postman](https://www.getpostman.com/) collection to test against the Mock server or the production API.
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/a08ca24bd01f221d6601#?env%5BLocal%5D=W3siZW5hYmxlZCI6dHJ1ZSwia2V5IjoiQkFTRS1VUkwiLCJ2YWx1ZSI6Imh0dHA6Ly9sb2NhbGhvc3Q6MzAwMCIsInR5cGUiOiJ0ZXh0In0seyJlbmFibGVkIjp0cnVlLCJrZXkiOiJCQVNFLUFQSSIsInZhbHVlIjoie3tCQVNFLVVSTH19L2Rldi9hcGkiLCJ0eXBlIjoidGV4dCJ9LHsiZW5hYmxlZCI6dHJ1ZSwia2V5IjoiQVBJLUFVVEgiLCJ2YWx1ZSI6IkJhc2ljIGJXOWphMEJoWjJsc1pXTnliUzVqYjIwNmMyVmpjbVYwTVRJek5BPT0iLCJ0eXBlIjoidGV4dCJ9XQ==)
 
 ## Getting started
 
