@@ -1,17 +1,14 @@
-<div align="center"><img src="https://www.agilecrm.com/img/agile-crm.svg" height="50" alt="Agile CRM" /></div>
-<h1 align="center">Mock Rest API Server</h1>
-<p align="center">
-<a href="https://david-dm.org/pnmcosta/agilecrm-mock-api?type=dev"><img src="https://david-dm.org/pnmcosta/agilecrm-mock-api/dev-status.svg?style=flat-square" alt="devDependency Status"></a>
+<h1 align="center"><img src="https://www.agilecrm.com/img/agile-crm.svg" height="50" alt="Agile CRM" />
+<br>Mock Rest API Server
+<br><a href="https://david-dm.org/pnmcosta/agilecrm-mock-api?type=dev"><img src="https://david-dm.org/pnmcosta/agilecrm-mock-api/dev-status.svg?style=flat-square" alt="devDependency Status"></a>
 <a href="https://raw.githubusercontent.com/pnmcosta/agilecrm-mock-api/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="MIT License"></a>
 <a href="https://github.com/pnmcosta/agilecrm-mock-api/network"><img src="https://img.shields.io/github/forks/pnmcosta/agilecrm-mock-api.svg?style=flat-square" alt="GitHub forks"></a>
 <a href="https://github.com/pnmcosta/agilecrm-mock-api/stargazers"><img src="https://img.shields.io/github/stars/pnmcosta/agilecrm-mock-api.svg?style=flat-square" alt="GitHub stars"></a>
 <a href="https://github.com/pnmcosta/agilecrm-mock-api/issues"><img src="https://img.shields.io/github/issues/pnmcosta/agilecrm-mock-api.svg?style=flat-square" alt="GitHub issues"></a>
 <a href="https://twitter.com/intent/tweet?text=An%20%40agilecrm%20%23jsonserver%20mock%20rest%20API%20by%20%40pnmcosta%20on&url=https%3A%2F%2Fgithub.com%2Fpnmcosta%2Fagilecrm-mock-api"><img src="https://img.shields.io/twitter/url/https/github.com/pnmcosta/agilecrm-mock-api.svg?style=social" alt="Tweet"></a>
-</p>
-___
+</h1>
 
 Agile CRM Mock Rest API Server developed by [Pedro Maia Costa](https://github.com/pnmcosta) using [JSON Server](https://github.com/typicode/json-server/) that allows you to test custom integrations that use the [Agile CRM REST API](https://github.com/agilecrm/rest-api). 
-
 
 ## Getting started
 
