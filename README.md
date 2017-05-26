@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="https://www.agilecrm.com/img/agile-crm.svg" height="50" alt="Agile CRM" /></div>
+<p align="center"><img src="https://www.agilecrm.com/img/agile-crm.svg" height="50" alt="Agile CRM" /></p>
 <div align="center">
 <h1>Mock Rest API Server</h1>
 <a href="https://david-dm.org/pnmcosta/agilecrm-mock-api?type=dev"><img src="https://david-dm.org/pnmcosta/agilecrm-mock-api/dev-status.svg?style=flat-square" alt="devDependency Status"></a>
