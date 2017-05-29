@@ -19,6 +19,10 @@ server.use(middlewares);
 
 server.use(jsonServer.bodyParser);
 
+//server.use(jsonServer.rewriter({
+//    '/dev/api/search': '/dev/api/contacts'
+//}));
+
 server.use(customRouter);
 
 server.get('/__rules', function (req, res) {

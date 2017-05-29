@@ -44,7 +44,6 @@
     <Content Include="public\images\json.png" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="agilecrm-mock-api" />
     <Folder Include="db" />
     <Folder Include="public" />
     <Folder Include="public\images" />

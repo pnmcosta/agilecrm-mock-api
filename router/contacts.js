@@ -11,6 +11,7 @@ module.exports = function (router) {
         '/dev/api/contacts/:id/events/sort': 'GET',
         '/dev/api/contacts/:id/tasks': 'GET',
         '/dev/api/contacts/search/email/:email': 'GET',
+        '/dev/api/search': 'GET',
         '/dev/api/contacts/search/email': 'POST',
         '/dev/api/contacts/email/note/add': 'POST',
         '/dev/api/contacts/add/property': 'POST'
@@ -69,8 +70,11 @@ module.exports = function (router) {
         },
 
         get: function (req, res, next) {
-
-            if (req.params.email) {
+            if (req.route.path.endsWith('/search')) {
+                req.query.q = ""; //return all
+                req.url = "/dev/api/contacts";
+                return next();
+            }else if (req.params.email) {
                 // handles rule /dev/api/contacts/search/email/:email
                 res.jsonp(req.db.contacts.getByEmail(req.params.email) || {}).end();
                 return;
